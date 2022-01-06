@@ -6,7 +6,9 @@ The Map is very basic. It works using a static world map as a background, then p
 
 These pointer events also help:
 
+```
 <style>
 .collection-wrapper {pointer-events: none;}
 .c-map_dot {pointer-events: auto;}
 </style>
+```
